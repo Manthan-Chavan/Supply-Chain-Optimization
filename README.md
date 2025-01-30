@@ -1,5 +1,7 @@
 # Supply-Chain-Optimization
 Capacitated Plant Location Optimization
+
+
 This project utilizes linear programming to solve a capacitated plant location problem, considering various costs (variable, fixed, freight, storage), 
 emissions, and delivery constraints across multiple locations.
 A linear programming model is developed to identify the minimum total costs for meeting consumer demand across five states, taking into account 
